@@ -17,23 +17,21 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Interest
 ------
-  Computer Vision
+    Computer Vision
   
-  Image Processing
+    Image Processing
   
-  AI in Healthcare
+    AI in Healthcare
 
 Education
 ------
-  Master of Engineering, 
-  
-  System Design-Artificial Intelligence and Machine Learning,
-  
-  University of Waterloo
+    Master of Engineering, 
+    
+        System Design-Artificial Intelligence and Machine Learning,
+        
+        University of Waterloo
 
-  
-  Bachelor of Mathematics, 
-  
-  Honours Information Technology Management, Statistics Minor,
-  
-  University of Waterloo
+    Bachelor of Mathematics, 
+        
+        Honours Information Technology Management, Statistics Minor,
+        University of Waterloo
