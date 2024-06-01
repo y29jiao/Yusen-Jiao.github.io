@@ -13,25 +13,16 @@ Currently, I am fortunate to serve as a Research Assistant at the [University of
 
 My primary research interest lies in leveraging machine learning and deep learning to address real-world problems. This interest naturally extends to computer vision and image processing, which are broad fields. Specifically, I am passionate about AI in healthcare, as this area perfectly represents the application of image processing to solve tangible issues.
 
-Interest
-------
+## Interest
 
-    Computer Vision
-  
-    Image Processing
-  
-    AI in Healthcare
+- Computer Vision
+- Image Processing
+- AI in Healthcare
 
-Education
-------
+## Education
 
-    Master of Engineering, 
-    
-        System Design-Artificial Intelligence and Machine Learning,
-        
-        University of Waterloo
+**Master of Engineering**, System Design-Artificial Intelligence and Machine Learning,
+University of Waterloo
 
-    Bachelor of Mathematics, 
-        
-        Honours Information Technology Management, Statistics Minor,
-        University of Waterloo
+**Bachelor of Mathematics**, Honours Information Technology Management, Statistics Minor,
+University of Waterloo
