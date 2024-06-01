@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Yusen Jiao's Curriculum Vitae](..assets/Yusen Jiao_CV.pdf)
+You can find my CV here: [Yusen Jiao's Curriculum Vitae](../assets/Yusen Jiao_CV.pdf)
