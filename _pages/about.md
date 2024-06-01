@@ -15,6 +15,7 @@ My primary research interest lies in leveraging machine learning and deep learni
 
 Interest
 ------
+
     Computer Vision
   
     Image Processing
@@ -23,6 +24,7 @@ Interest
 
 Education
 ------
+
     Master of Engineering, 
     
         System Design-Artificial Intelligence and Machine Learning,
