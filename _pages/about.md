@@ -9,7 +9,7 @@ redirect_from:
 
 I‘m Yusen Jiao, a recent graduate from the [University of Waterloo](https://uwaterloo.ca/) with a Master's degree in Systems Design Engineering, specializing in AI and Machine Learning. I also completed my undergraduate studies at the University of Waterloo, majoring in Mathematics and Statistics. 
 
-Currently, I am fortunate to serve as a Research Assistant at the [University of Wisconsin-Madison](https://www.wisc.edu/), collaborating with Yifei Zhang, advised by Professor [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). Together, we have completed a paper:[Just Select Twice: Leveraging Low Quality Data to Improve Data Selection](https://openreview.net/forum?id=jmHCvlqj2i) on Data-Centric Machine Learning, which we submitted to the NeurIPS Benchmark Track. Prior to this, I was a Research Assistant at the University of California, Berkeley.
+Currently, I am fortunate to serve as a Research Assistant at the [University of Wisconsin-Madison](https://www.wisc.edu/), collaborating with Yifei Zhang, advised by Professor [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). Together, we have completed a paper: [Just Select Twice: Leveraging Low Quality Data to Improve Data Selection](https://openreview.net/forum?id=jmHCvlqj2i) on Data-Centric Machine Learning, which we submitted to the NeurIPS Benchmark Track. Prior to this, I was a Research Assistant at the University of California, Berkeley.
 
 My primary research interest lies in leveraging machine learning and deep learning to address real-world problems. This interest naturally extends to computer vision and image processing, which are broad fields. Specifically, I am passionate about AI in healthcare, as this area perfectly represents the application of image processing to solve tangible issues.
 
@@ -21,6 +21,23 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
+Interest
+------
+  Computer Vision
+  Image Processing
+  AI in Healthcare
+
+Education
+------
+  Master of Engineering, 
+  System Design-Artificial Intelligence and Machine Learning,
+  University of Waterloo
+  
+  Bachelor of Mathematics, 
+  Honours Information Technology Management, Statistics Minor
+  University of Waterloo
+
+'''
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -53,3 +70,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+'''
