@@ -23,12 +23,12 @@ My primary research interest lies in leveraging machine learning and deep learni
 
 **Master of Engineering**, 
 
-System Design-Artificial Intelligence and Machine Learning,
+System Design Engineering: Artificial Intelligence and Machine Learning,
 
 University of Waterloo
 
 **Bachelor of Mathematics**, 
 
-Honours Information Technology Management and Statistics Minor,
+Mathematics: Honours Information Technology Management and Statistics Minor,
 
 University of Waterloo
