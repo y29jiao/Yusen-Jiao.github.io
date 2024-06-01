@@ -15,9 +15,9 @@ My primary research interest lies in leveraging machine learning and deep learni
 
 ## Interest
 
-- Computer Vision
-- Image Processing
-- AI in Healthcare
+Computer Vision
+Image Processing
+AI in Healthcare
 
 ## Education
 
