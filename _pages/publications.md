@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /https://y29jiao.github.io/Yusen-Jiao.github.io/publications/
+permalink: /publications/
 author_profile: true
 ---
 
