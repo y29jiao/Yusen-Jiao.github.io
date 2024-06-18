@@ -10,9 +10,9 @@ redirect_from:
 
 I‘m Yusen Jiao, a recent graduate from the [University of Waterloo](https://uwaterloo.ca/) with a Master's degree in Systems Design Engineering, specializing in AI and Machine Learning. I also completed my undergraduate studies at the University of Waterloo, majoring in Mathematics and Statistics. 
 
-Currently, I am fortunate to serve as a Research Assistant at the [University of Wisconsin-Madison](https://www.wisc.edu/), collaborating with Yifei Zhang, advised by Professor [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). Together, we have completed a paper: [Just Select Twice: Leveraging Low Quality Data to Improve Data Selection](https://openreview.net/forum?id=jmHCvlqj2i) on Data-Centric Machine Learning, which we submitted to the NeurIPS Benchmark Track. Prior to this, I was a Research Assistant at the University of California, Berkeley.
+Currently, I am fortunate to collaborate with Yifei Zhang, from the [University of Wisconsin-Madison](https://www.wisc.edu/), advised by Professor [Fred Sala](https://pages.cs.wisc.edu/~fredsala/). Together, we have completed a paper: [Just Select Twice: Leveraging Low Quality Data to Improve Data Selection](https://openreview.net/forum?id=jmHCvlqj2i) on Data-Centric Machine Learning, which we submitted to the NeurIPS Benchmark Track. Prior to this, I was a Research Assistant at the University of California, Berkeley.
 
-My primary research interest lies in leveraging machine learning and deep learning to address real-world problems. This interest naturally extends to computer vision and image processing, which are broad fields. Specifically, I am passionate about AI in healthcare, as this area perfectly represents the application of image processing to solve tangible issues.
+My primary research interest lies in leveraging machine learning and deep learning to address real-world problems. This interest naturally extends to computer vision and image processing, which are broad fields. Specifically, I am passionate about AI for healthcare, as this area perfectly represents the application of image processing to solve tangible issues.
 
 ## Interest
 
@@ -20,7 +20,7 @@ Computer Vision
 
 Image Processing
 
-AI in Healthcare
+AI for Healthcare
 
 ## Education
 
